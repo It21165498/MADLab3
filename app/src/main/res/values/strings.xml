@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="txt_heading">Register</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_cancel">Cancel</string>
+
+    <string name="hint_uname">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pnumber">Phone Number</string>
+    <string name="hint_pwd">Password</string>
+    <string name="hint_rpwd">Retype Password</string>
+
+
+
+
+
+</resources>
